@@ -1,7 +1,7 @@
 ### Hi,I'm Giovana 👋
 
-- 💻 I'm a back-end developer
-- 🔭 I’m currently learning on Python/DjangoRestApi/Docker
+- 💻 I'm a web developer
+- 🔭 I’m currently learning on Python/DjangoRestApi/Docker/HTML/CSS/JS
 - 🌱 I’m computer science student
 
 <p>
