@@ -1,7 +1,7 @@
 ### Hi,I'm Giovana 👋
 
 - 💻 I'm a web developer
-- 🔭 I’m currently learning on Python/DjangoRestApi/Docker/HTML/CSS/JS/react/nextJs
+- 🔭 I’m currently learning on Python/DjangoRest/HTML/CSS/JS/react/nextJs/Flutter/Docker
 - 🌱 I’m computer science student
 -  I'm a mobile development enthusiast with Flutter/Dart
 
@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+      <img src="https://icons8.com.br/icon/7I3BjCqe9rjG/vibrar"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
